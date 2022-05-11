@@ -1,0 +1,84 @@
+body{
+    background-color: blueviolet;
+}
+
+#cp{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#box{
+    width: 300px;
+    height: 640px;
+    background: #1C1C6D;
+    position: relative;
+    left: 350px;
+}
+
+#texto{
+    color: black;
+    background-color: #1C1C6D;
+    position: absolute;
+    left: 15px; height: 500px; top:75px;
+    font-size: 19px;
+    font-family: fantasy;
+}
+
+#cad{
+    text-align: center;
+    position: relative;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+
+#logo{
+    position: relative;
+    right: 625px; top: 110px;
+}
+
+#nome{
+    width: 260px;
+    height: 20px;
+}
+
+#data_nascimento{
+    width: 260px;
+    height: 20px;
+}
+
+#email{
+    width: 260px;
+    height: 20px;
+}
+
+#telefone{
+    width: 260px;
+    height: 20px;
+}
+
+#senha{
+    width: 260px;
+    height: 20px;
+}
+
+#confirma_senha{
+    width: 260px;
+    height: 20px;
+}
+
+#obj_profissional{
+    width: 260px;
+    height: 20px;
+}
+
+#botao{
+    position: relative;
+    left: 40%;
+    font-size: 16px;
+    background-color: blueviolet;
+    font-family: fantasy;
+}
